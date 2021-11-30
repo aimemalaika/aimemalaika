@@ -6,9 +6,9 @@
   <p align="center">
     <a href="https://github.com/aimemalaika">
       <img height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=aimemalaika&show_icons=true&theme=midnight-white&count_private=true" />
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=aimemalaika&show_icons=true&theme=tokyonight&count_private=true" />
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimemalaika&show_icons=true&theme=midnight-white&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimemalaika&show_icons=true&layout=compact&langs_count=100&theme=tokyonight"
       alt="shoira" />
     </a>
   </p>
