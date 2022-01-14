@@ -16,3 +16,19 @@ I like 👨‍💻 : Programming | 🎮 : gaming | ☕ : Coffee | 🕺 : dance
     </a>
   </p>
 </h3>
+
+## 👀 I’m interested in:
+
+- Python
+- ReactJS
+- NodeJS
+- Epress
+- PHP and
+- React Native
+
+## 💞️ I’m looking to collaborate on:
+
+- Algorithms and Datastructures
+- React.js
+- Node.js
+- Ruby/Rails
