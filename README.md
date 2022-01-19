@@ -14,8 +14,10 @@
 
 - 💬 Ask me about **Software Development**
 
-- ⚡ I like 👨‍💻 : Programming | 🎮 : gaming | ☕ : Coffee | 🕺 : dance
+- ⚡ I like 👨‍💻 : Programming | 🎮 : gaming | ☕ : Coffee | 🕺 : dance 
 
+## 👱 Visitor count
+<img src="https://profile-counter.glitch.me/aimemalaika/count.svg" />
 ## 👀 Knowledge Base:
 
 ### Languages
