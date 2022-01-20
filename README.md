@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Algorithms and Data Structures**
 
-- 👨‍💻 All of my projects are available [@aimemalaika](https://github.com/aimemalaika)
+- 👨‍💻 All of my projects are available [@aimemalaika](https://aimemalaika.github.io/portofolio/)
 
 - 💬 Ask me about **Software Development**
 
