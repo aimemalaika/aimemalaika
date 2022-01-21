@@ -1,20 +1,20 @@
-# 👋 Greetings, Universe! Aime in the house!  
+# 👋 Greetings, Universe! Aime in the house!
 
-## A little more about myself 
+## A little more about myself
 
-<h3>A passionate I'm a full-stack software developer, who enjoys working on all kind of tech.</h3>
+<h3>I am a passionate full-stack software developer who enjoys working on all kinds of tech.</h3>
 
-- I’m currently available for hire or open to new job opportunities<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- I’m currently available for hire or open to new job opportunities <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👯 I’m looking to collaborate on **Software Development Projects**
 
-- 🤝 I’m looking for help with **Algorithms and Data Structures**
+- 🤝 I’m looking for help with **AI and Machine Learning**
 
 - 👨‍💻 All of my projects are available [@aimemalaika](https://aimemalaika.github.io/portofolio/)
 
 - 💬 Ask me about **Software Development**
 
-- ⚡ I like 👨‍💻 : Programming | 🎮 : gaming | ☕ : Coffee | 🕺 : dance 
+- ⚡ I like 👨‍💻 : Programming | 🎮 : gaming | ☕: Coffee | 🕺: dance
 
 ## 👱 Visitor count
 <img src="https://profile-counter.glitch.me/aimemalaika/count.svg" />
@@ -52,7 +52,7 @@
   </a>
 </p>
 
-## 💹 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Checkout my stats !
+## 💹 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Check out my stats!
 
 <h3>
   <p>
