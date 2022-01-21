@@ -4,7 +4,7 @@
 
 <h3>A passionate I'm a full-stack software developer, who enjoys working on all kind of tech.</h3>
 
-- I’m currently available for hire or open to new job opportunities
+- I’m currently available for hire or open to new job opportunities<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👯 I’m looking to collaborate on **Software Development Projects**
 
