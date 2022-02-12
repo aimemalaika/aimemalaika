@@ -39,11 +39,11 @@
 
 <div>
   <div>
-    <a  href="https://www.linkedin.com/in/aimemalaika/" target="_blank">
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a  href="https://www.linkedin.com/in/aimemalaika/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
-    <a href="https://twitter.com/Aime_Malaika" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a href="https://twitter.com/Aime_Malaika" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
   </div>
 </div>
@@ -51,7 +51,7 @@
 ## ✉️ Reach me
 
 <p>
-  <a href="mailto:aimemalaika1995@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  &ensp;&ensp;&ensp;&ensp;&ensp; <a href="mailto:aimemalaika1995@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
