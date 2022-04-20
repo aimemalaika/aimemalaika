@@ -64,8 +64,7 @@
       <img height="200em"
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=aimemalaika&show_icons=true&theme=tokyonight&count_private=true" />
     <img height="200em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimemalaika&show_icons=true&layout=compact&langs_count=&theme=tokyonight"
-      alt="shoira" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimemalaika&show_icons=true&layout=compact&langs_count=15&theme=tokyonight%22" />
     </a>
   </p>
 </h3>
