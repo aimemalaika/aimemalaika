@@ -61,10 +61,10 @@
 <h3>
   <p>
     <a href="https://github.com/aimemalaika">
-      <img height="180em"
+      <img height="200em"
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=aimemalaika&show_icons=true&theme=tokyonight&count_private=true" />
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimemalaika&show_icons=true&layout=compact&langs_count=30&theme=tokyonight"
+    <img height="200em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimemalaika&show_icons=true&layout=compact&langs_count=&theme=tokyonight"
       alt="shoira" />
     </a>
   </p>
