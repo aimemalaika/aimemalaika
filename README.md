@@ -15,7 +15,8 @@
 - 💬 Ask me about **Software Development**
 
 - ⚡ I like 👨‍💻 : Programming | 🎮 : gaming | ☕: Coffee | 🕺: dance
-
+## Activities
+![Snake animation](https://github.com/aimemalaika/aimemalaika/blob/output/github-contribution-grid-snake.svg)
 ## 👱 Activity Rank
 <img height="25px" src="https://en14otg29lq8tgq.m.pipedream.net" alt="Most Active GitHub User Rank">
 
