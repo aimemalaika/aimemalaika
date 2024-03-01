@@ -65,7 +65,7 @@
       <img height="200em"
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=aimemalaika&show_icons=true&theme=tokyonight&count_private=true" />
     <img height="200em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimemalaika&show_icons=true&layout=compact&langs_count=15&theme=tokyonight" />
+      src="https://wakatime.com/share/@fb3e5cb1-6d9c-44d5-9092-fcacba80dc94/bfe09ce6-fb04-4834-bcc9-0e927fd2b1ea.png" />
     </a>
   </p>
 </h3>
