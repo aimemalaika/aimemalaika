@@ -1,4 +1,4 @@
-# 👋 Greetings, Universe! Aime in the house!
+# 👋 Greetings!
 
 ## A little more about myself
 
