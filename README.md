@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **AI and Machine Learning**
 
-- 👨‍💻 All of my projects are available [@aimemalaika](https://aimemalaika.github.io/portofolio/)
+- 👨‍💻 All of my projects are available [@aimemalaika](https://aime-malaika.netlify.app/)
 
 - 💬 Ask me about **Software Development**
 
