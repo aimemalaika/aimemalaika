@@ -17,10 +17,13 @@
 - ⚡ I like 👨‍💻 : Programming | 🎮 : gaming | ☕: Coffee | 🕺: dance
 
 ## 👱 Activity Rank
-<img height="25px" src="https://en14otg29lq8tgq.m.pipedream.net" alt="Most Active GitHub User Rank">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimemalaika&show_icons=true&rank_icon=github&include_all_commits=true)
+
+
 
 ## 👱 Visitor count
-<img src="https://profile-counter.glitch.me/aimemalaika/count.svg" />
+![Profile views](https://komarev.com/ghpvc/?username=aimemalaika&color=blue)
+
 
 ## 👀 Knowledge Base:
 
